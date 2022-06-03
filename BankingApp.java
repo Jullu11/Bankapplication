@@ -1,7 +1,8 @@
 			package Bankapplication;
 			
 			//Name: Jaineshkumar Lad
-			//class: introduction to programming 1760-002
+
+			
 			//project: Banking System Application
 			
 			import java.util.Scanner;
